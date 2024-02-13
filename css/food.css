@@ -2,8 +2,8 @@ body {
   text-align: center;
   margin-top: 30px;
   font-family: "Courier";
-  background-color: #fff5e4;
-  color: #ff9494;
+  background-image: url(../background.jpg);
+  color: #db0909;
 }
 #foodquestion {
   font-size: 50px;
@@ -13,13 +13,13 @@ body {
   display: inline-block;
   margin: 10px;
   vertical-align: top;
-  color: #ff9494;
+  color: #db0909;
 }
 .food-item img {
   height: 200px;
   width: 200px;
   border-radius: 50%;
-  border: 5px solid #ff9494;
+  border: 5px solid #db0909;
   object-fit: cover;
   padding: 10px;
 }
